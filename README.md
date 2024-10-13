@@ -1,2 +1,2 @@
-# stock-sage
-A real-time stock price prediction and monitoring system. This project ingests real-time financial data, processes it, trains predictive models, and provides real-time stock price predictions with monitoring dashboards.
+# katakuri
+A real-time cryptocurrency prediction service and AI system. This project ingests real-time price data and processes it, to develop key predictive features. To achieve low-latency and fault-tolerance in the data ingestion and processing layers, the system depends on Apache tools Kafka and Flink.
