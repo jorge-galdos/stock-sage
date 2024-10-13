@@ -16,7 +16,7 @@ See Coinbase Exchange WebSocket details here:
 https://docs.cdp.coinbase.com/exchange/docs/websocket-overview
 
 Usage example:
-    $ python ingestor.py --bootstrap-servers localhost:9092
+    $ python ingest.py --bootstrap-servers localhost:9092
 
 MIT License
 -----------
